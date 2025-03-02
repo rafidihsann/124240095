@@ -25,7 +25,7 @@ int main()
         cout << "1. Input Data" << endl;
         cout << "2. Tampilan Data" << endl;
         cout << "3. Searching Data" << endl;
-        cout << "4. Keluar       " << endl;
+        cout << "4. Keluar" << endl;
         cout << "=================" << endl;
         cout << "\nPilih Menu: "; cin >> pilih;
         cin.ignore();
