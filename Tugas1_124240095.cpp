@@ -7,7 +7,7 @@ struct barang
     string nama;
     int harga;
 };
-barang barank[20];
+barang barank[50];
 void input();
 void sorting();
 void searching();
