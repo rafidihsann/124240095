@@ -82,7 +82,7 @@ void sorting(){
             {
                 if (barank[j].nama > barank[j + 1].nama)
                 {
-                swap(barank[j].nama, barank[j + 1].nama);
+                swap(barank[j], barank[j + 1]);
                 }
             }
         }
